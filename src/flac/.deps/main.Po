@@ -1,0 +1,201 @@
+main.o: main.c ../../config.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/ctype.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/newlib.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/config.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/ieeefp.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/features.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/errno.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/errno.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/reent.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stddef.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/lock.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/locale.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stdarg.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/stdio.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/cdefs.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/stdio.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/stdlib.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/stdlib.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/alloca.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/string.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/string.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/time.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/time.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/timespec.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_timespec.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/unistd.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/unistd.h \
+ ../../include/FLAC/all.h ../../include/FLAC/export.h \
+ ../../include/FLAC/assert.h ../../include/FLAC/callback.h \
+ ../../include/FLAC/ordinals.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_intsup.h \
+ ../../include/FLAC/format.h ../../include/FLAC/metadata.h \
+ ../../include/FLAC/stream_decoder.h ../../include/FLAC/stream_encoder.h \
+ ../../include/share/alloc.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include-fixed/limits.h \
+ ../../include/share/compat.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/inttypes.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/utime.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/utime.h \
+ ../../include/share/grabbag.h ../../include/share/grabbag/cuesheet.h \
+ ../../include/FLAC/metadata.h ../../include/share/grabbag/file.h \
+ ../../include/FLAC/ordinals.h ../../include/share/grabbag/picture.h \
+ ../../include/share/grabbag/replaygain.h \
+ ../../include/share/grabbag/seektable.h ../../include/FLAC/format.h \
+ ../../include/share/safe_str.h analyze.h decode.h foreign_metadata.h \
+ utils.h ../../include/share/replaygain_synthesis.h encode.h \
+ local_string_utils.h vorbiscomment.h ../../include/share/getopt.h
+
+../../config.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/ctype.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/_ansi.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/newlib.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/config.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/ieeefp.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/features.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/errno.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/errno.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/reent.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/_ansi.h:
+
+/usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stddef.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/_types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/_types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/lock.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/locale.h:
+
+/usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stdarg.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/stdio.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/cdefs.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/_stdint.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/stdio.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/stdlib.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/stdlib.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/alloca.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/string.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/string.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/time.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/time.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/timespec.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/_timespec.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/unistd.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/unistd.h:
+
+../../include/FLAC/all.h:
+
+../../include/FLAC/export.h:
+
+../../include/FLAC/assert.h:
+
+../../include/FLAC/callback.h:
+
+../../include/FLAC/ordinals.h:
+
+/usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stdint.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/stdint.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/_intsup.h:
+
+../../include/FLAC/format.h:
+
+../../include/FLAC/metadata.h:
+
+../../include/FLAC/stream_decoder.h:
+
+../../include/FLAC/stream_encoder.h:
+
+../../include/share/alloc.h:
+
+/usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include-fixed/limits.h:
+
+../../include/share/compat.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/inttypes.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/utime.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/utime.h:
+
+../../include/share/grabbag.h:
+
+../../include/share/grabbag/cuesheet.h:
+
+../../include/FLAC/metadata.h:
+
+../../include/share/grabbag/file.h:
+
+../../include/FLAC/ordinals.h:
+
+../../include/share/grabbag/picture.h:
+
+../../include/share/grabbag/replaygain.h:
+
+../../include/share/grabbag/seektable.h:
+
+../../include/FLAC/format.h:
+
+../../include/share/safe_str.h:
+
+analyze.h:
+
+decode.h:
+
+foreign_metadata.h:
+
+utils.h:
+
+../../include/share/replaygain_synthesis.h:
+
+encode.h:
+
+local_string_utils.h:
+
+vorbiscomment.h:
+
+../../include/share/getopt.h:

@@ -1,0 +1,101 @@
+utf8/charset.lo: utf8/charset.c ../../config.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/stdlib.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/ieeefp.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/newlib.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/config.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/features.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stddef.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/reent.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/lock.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/cdefs.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/stdlib.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/alloca.h \
+ ../../include/share/alloc.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include-fixed/limits.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_intsup.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_stdint.h \
+ ../../include/share/compat.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/unistd.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/unistd.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/inttypes.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/utime.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/utime.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stdarg.h \
+ utf8/charset.h utf8/charmaps.h
+
+../../config.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/stdlib.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/ieeefp.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/_ansi.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/newlib.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/config.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/features.h:
+
+/usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stddef.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/reent.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/_ansi.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/_types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/_types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/lock.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/cdefs.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/stdlib.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/alloca.h:
+
+../../include/share/alloc.h:
+
+/usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include-fixed/limits.h:
+
+/usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stdint.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/stdint.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/_intsup.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/_stdint.h:
+
+../../include/share/compat.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/unistd.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/unistd.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/machine/types.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/inttypes.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/utime.h:
+
+/usr/local/vitasdk/arm-vita-eabi/include/sys/utime.h:
+
+/usr/local/vitasdk/lib/gcc/arm-vita-eabi/7.2.0/include/stdarg.h:
+
+utf8/charset.h:
+
+utf8/charmaps.h:
